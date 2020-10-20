@@ -360,6 +360,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+!build/vc2015/
+!build/HM_vc2015.sln
 develop-eggs/
 dist/
 downloads/
