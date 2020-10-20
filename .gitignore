@@ -360,14 +360,14 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-!build/vc2015/
-!build/HM_vc2015.sln
+!HM-16.15/build/vc2015/
+!HM-16.15/build/HM_vc2015.sln
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
-.lib/
+HM-16.15/lib/
 lib64/
 parts/
 sdist/
@@ -380,12 +380,12 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-.settings/
-.HM.xcodeproj/
-.cfg/
-.compat/msvc/
-.doc/
-.cproject
-.project
-COPYING
-README
+HM-16.15/.settings/
+HM-16.15/.HM.xcodeproj/
+HM-16.15/.cfg/
+HM-16.15/.compat/msvc/
+HM-16.15/.doc/
+HM-16.15/.cproject
+HM-16.15/.project
+HM-16.15/COPYING
+HM-16.15/README
