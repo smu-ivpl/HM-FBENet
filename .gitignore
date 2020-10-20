@@ -367,7 +367,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-HM-16.15/lib/
+./HM-16.15/lib/
 lib64/
 parts/
 sdist/
